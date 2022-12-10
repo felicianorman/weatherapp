@@ -6,4 +6,5 @@ Användaren kan söka efter valfri land eller stad, och temperaturen kommer skri
 
 ## Tack till
 https://openweathermap.org/
+<br>
 https://www.pexels.com/sv-se/
